@@ -39,6 +39,4 @@ Actualmente transformo ideas en realidades digitales, aplicando estrategias de m
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-![Stats de Leonar](https://github-readme-stats.vercel.app/api?username=LeonelJhonson&show_icons=true&theme=radical)
 
