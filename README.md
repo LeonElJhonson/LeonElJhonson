@@ -1,9 +1,16 @@
-# ¡Hola! Soy Leonar 👋
+<h3 align="center">
+  Hola, me llamo Leonar Loarte 👋
+</h3>
 
-### 🤖 Estudiante de Ingeniería en Inteligencia Artificial
-Actualmente transformo ideas en realidades digitales, aplicando estrategias de marketing, diseño profesional y explorando el mundo de la IA.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Soy+un+futuro+Ingeniero+de+Inteligencia+Artificial!;Estoy+explorando+el+mundo+de+la+IA;Quiero+transformar+ideas+en+realidades+digitales&center=true&width=600&height=50">
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="" width="200">
+</p>
 
 ### 🛠️ Mis Herramientas de Trabajo
 
@@ -25,18 +32,12 @@ Actualmente transformo ideas en realidades digitales, aplicando estrategias de m
 
 ---
 
-### 🌟 Proyectos Destacados
+### 🌟 Proyecto Destacado
 
 #### [🥐 Panadería & Pastelería Delicia](https://panaderiapasteleriadelicia.netlify.app/)
 * **Descripción:** Landing page profesional con enfoque en marketing local y pedidos por WhatsApp.
 * **Tecnologías:** HTML5, CSS3, JavaScript y desplegado en Netlify.
 
----
 
-### 📫 Contacto
-* LinkedIn:
-* Portafolio: https://panaderiapasteleriadelicia.netlify.app/
-
----
 
 
